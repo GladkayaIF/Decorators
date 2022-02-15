@@ -1,0 +1,5 @@
+datetime call function = 2022-02-14 23:20:00.799383
+name function = <function foo at 0x000001E5937841F0>
+*args function = 5
+**kwargs function = 
+return function = 50
